@@ -1,13 +1,13 @@
 #!/bin/bash
 #####
-# repos_update.sh
+# update_repos.sh
 # version 2.1 09-11-2022
 #
 # Script that update local repos for:
 # - CentOS 7
 # - EPEL 7,8
 # - AlmaLinux 8
-# - RHEL 8.5 (Disabled, because end of license)
+# - RHEL 8.5 (license)
 # For other please add necessary values in listed variables
 # PS: RHEL using another repo sync method
 # Fixed:
