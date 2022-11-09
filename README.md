@@ -1,7 +1,7 @@
 # Create-and-sync-linux-repo
 Script that create and synchronize Linux local repositories
 
-You can use script `rsync_repo.sh` for creating your own local linux repositories.
+You can use script `update_repos.sh` for creating your own local linux repositories.
 
 For regular updating downloaded repositories, add this script to cron:
 ```
